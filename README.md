@@ -121,10 +121,4 @@ Provide personalized care and treatment plans by understanding patient perspecti
 Empower healthcare decision-makers with valuable sentiment analysis data.
 ## Acknowledgments
 Mention any scikit-learn,numpy,pandas,seaborn,matplotlib,nltk,re,tensorflow,keras,string,wordcloud,gensim,FastText, Dataset from UCI ML repository,and Webmd,Blog of <b>colah</b>.
-## Contributors
-Suhaib mukhtar: Development and planning.
-Owais & irfan: Presentations and documentation.
-Contact:
-suhaibmukhtar2@gmail.com
-Provide contact information for support or inquiries.
-suhaibmukhtar.io.github.com
+
